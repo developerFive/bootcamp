@@ -50,9 +50,8 @@ p {
 /* Headings */ 
 .big-heading {
 	font-family: 'Montserrat', sans-serif;
-	font-weight: 900;.carousel-item {
-	padding: 7% 15%;
-}
+	font-weight: 900;
+  }
 
 .section-heading {
   font-size: 3rem;
